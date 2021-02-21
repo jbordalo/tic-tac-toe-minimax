@@ -4,7 +4,8 @@ The AI uses the Minimax Algorithm to find the best move.
 
 ## Improvements
 * ~~Prioritize lower depth solutions~~
-* Alpha-Beta Pruning
+* ~~Alpha-Beta Pruning~~
+* Time Comparison with Alpha-Beta Pruning
 * GUI
 
 ## Authors
